@@ -1,2 +1,2 @@
 # openMRS
-OpenMRS repository to implement EMR
+OpenMRS repository to implement EMR and UIC 
